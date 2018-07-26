@@ -6,3 +6,4 @@ git tracks changes of files.
 createing a new branch is quick
 this is ahahah and
 a new change
+a bug t me
