@@ -4,3 +4,4 @@ git has a mutable.
 git tracks changes
 git tracks changes of files.
 createing a new branch is quick
+creating a new branch is quick AND simple.
